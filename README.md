@@ -27,7 +27,7 @@ ShopperTaxi é um aplicativo de solicitação de viagens desenvolvido para iOS u
 ## 🚀 Como Rodar o Projeto
 
 1. **Clone o repositório**:
-   git clone https://github.com/seu-usuario/shopper-go.git
+   git clone [https://github.com/seu-usuario/shopper-go.git](https://github.com/rsaltavista/shopper-taxi.git)
 
 2. **Abra o projeto no Xcode** 
 
