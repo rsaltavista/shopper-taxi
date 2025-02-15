@@ -7,7 +7,6 @@ ShopperTaxi é um aplicativo de solicitação de viagens desenvolvido para iOS u
 - 📍 **Solicitação de Viagens**: O usuário pode inserir o local de origem e destino para obter estimativas de preço e tempo.
 - 🚗 **Escolha do Motorista**: Os motoristas disponíveis variam conforme a distância da viagem.
 - 🕒 **Histórico de Viagens**: Exibição de viagens anteriores com detalhes como data, motorista e valor.
-- 🔎 **Filtros no Histórico**: Opção para filtrar viagens por motorista.
 - 🚀 **Arquitetura Limpa e Modular**: Código organizado para facilitar manutenção e expansão.
 - ✅ **Testes Unitários**: Implementação de testes para garantir a qualidade do código.
 
